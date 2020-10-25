@@ -1,7 +1,7 @@
 package bubblesort
 
-// BubbleSort takes an unsorted array of numbers and sort it
-func BubbleSort(numbers []int) []int {
+// Sort takes an unsorted array of numbers and sort it
+func Sort(numbers []int) []int {
 
 	for i := len(numbers); i > 0; i-- {
 		for j := 1; j < i; j++ {
