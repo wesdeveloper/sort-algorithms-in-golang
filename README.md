@@ -24,3 +24,4 @@ From the Wikipedia article <a href="https://en.wikipedia.org/wiki/Sorting_algori
 
 ![An example of bubble sort](https://gifdownload.net/wp-content/uploads/2019/01/bubble-sort-animation-gif-9.gif)
 
+**bubble sort algorithm implemented in golang**: https://github.com/wesdeveloper/sort-algorithms-in-golang/blob/main/sort-algorithms/bubble-sort/bubble_sort.go
