@@ -22,6 +22,6 @@ From the Wikipedia article <a href="https://en.wikipedia.org/wiki/Sorting_algori
 > sort"), is named for the way smaller or larger elements "bubble" to
 > the top of the list.
 
-![An example of bubble sort](https://gifdownload.net/wp-content/uploads/2019/01/bubble-sort-animation-gif-9.gif)
+![An example of bubble sort](https://www.codesdope.com/staticroot/images/algorithm/bubble_sort.gif)
 
 **bubble sort algorithm implemented in golang**: https://github.com/wesdeveloper/sort-algorithms-in-golang/blob/main/sort-algorithms/bubble-sort/bubble_sort.go
