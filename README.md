@@ -1,4 +1,3 @@
-
 # sort-algorithms-in-golang
 
 # Sort Algorithms
@@ -8,7 +7,10 @@ In computer science, a sorting algorithm is an algorithm that puts elements of a
 From the Wikipedia article <a href="https://en.wikipedia.org/wiki/Sorting_algorithm">"Sorting algorithm"</a>
 
 # Algorithms Implementation 
-**Buble Sort**
+
+ * [Bubble Sort](#-bubble-sort)
+
+## **Buble Sort**
 
 > **Bubble sort**, sometimes referred to as **sinking sort**, is a simple [sorting
 > algorithm](https://en.wikipedia.org/wiki/Sorting_algorithm "Sorting
