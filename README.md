@@ -29,6 +29,6 @@ From the Wikipedia article <a href="https://en.wikipedia.org/wiki/Sorting_algori
 
 **bubble sort algorithm implemented in golang**: https://github.com/wesdeveloper/sort-algorithms-in-golang/blob/main/sort-algorithms/bubble-sort/bubble_sort.go
 
-## **Bubble Sort**
+## **Selection Sort**
 
 **selection sort algorithm implemented in golang**: https://github.com/wesdeveloper/sort-algorithms-in-golang/blob/main/sort-algorithms/selection-sort/selection_sort.go
