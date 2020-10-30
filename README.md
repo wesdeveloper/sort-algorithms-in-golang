@@ -8,7 +8,7 @@ From the Wikipedia article <a href="https://en.wikipedia.org/wiki/Sorting_algori
 
 # Algorithms Implementation 
 
- * [Bubble Sort](#-bubble-sort)
+ * [Bubble Sort](#bubble-sort)
 
 ## **Bubble Sort**
 
