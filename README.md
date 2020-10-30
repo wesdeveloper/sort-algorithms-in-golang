@@ -10,7 +10,7 @@ From the Wikipedia article <a href="https://en.wikipedia.org/wiki/Sorting_algori
 
  * [Bubble Sort](#-bubble-sort)
 
-## **Buble Sort**
+## **Bubble Sort**
 
 > **Bubble sort**, sometimes referred to as **sinking sort**, is a simple [sorting
 > algorithm](https://en.wikipedia.org/wiki/Sorting_algorithm "Sorting
