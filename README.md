@@ -10,6 +10,7 @@ From the Wikipedia article <a href="https://en.wikipedia.org/wiki/Sorting_algori
 
  * [Bubble Sort](#bubble-sort)
  * [Selection Sort](#selection-sort)
+ * [Insertion Sort](#insertion-sort)
 
 ## **Bubble Sort**
 
@@ -36,3 +37,11 @@ From the Wikipedia article <a href="https://en.wikipedia.org/wiki/Sorting_algori
 ![An example of selection sort](https://www.codingconnect.net/wp-content/uploads/2016/09/Selection-Sort.gif)
 
 **selection sort algorithm implemented in golang**: https://github.com/wesdeveloper/sort-algorithms-in-golang/blob/main/sort-algorithms/selection-sort/selection_sort.go
+
+## **Insertion Sort**
+
+> Insertion sort is a simple sorting algorithm that builds the final sorted array (or list) one item at a time. It is much less efficient on large lists than more advanced algorithms such as quicksort, heapsort, or merge sort. However, insertion sort provides several advantages.
+
+![An example of insertion sort](https://2.bp.blogspot.com/-mgW53A9pLJM/WzvZBE_t3fI/AAAAAAAAE7Q/DEhF8Zwnl3cFR2BOQtNHM9nnf_Ciajw5QCLcBGAs/s1600/Insertion%2BSort.gif)
+
+**insertion sort algorithm implemented in golang**: https://github.com/wesdeveloper/sort-algorithms-in-golang/blob/main/sort-algorithms/insertion-sort/insertion_sort.go
