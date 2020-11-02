@@ -31,4 +31,8 @@ From the Wikipedia article <a href="https://en.wikipedia.org/wiki/Sorting_algori
 
 ## **Selection Sort**
 
+> In computer science, selection sort is an in-place comparison sorting algorithm. It has an O(n2) time complexity, which makes it inefficient on large lists, and generally performs worse than the similar insertion sort. Selection sort is noted for its simplicity and has performance advantages over more complicated algorithms in certain situations, particularly where auxiliary memory is limited.
+
+![An example of selection sort](https://www.codingconnect.net/wp-content/uploads/2016/09/Selection-Sort.gif)
+
 **selection sort algorithm implemented in golang**: https://github.com/wesdeveloper/sort-algorithms-in-golang/blob/main/sort-algorithms/selection-sort/selection_sort.go
